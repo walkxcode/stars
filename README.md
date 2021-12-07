@@ -18,7 +18,7 @@ Total starred repositories: `18`
 
 ## C
 
-  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️56953)
+  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️56959)
   - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️507)
 
 ## CSS
@@ -28,7 +28,7 @@ Total starred repositories: `18`
 
 ## HTML
 
-  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️457)
+  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️459)
 
 ## JavaScript
 
@@ -36,15 +36,15 @@ Total starred repositories: `18`
 
 ## Python
 
-  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1092)
+  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1100)
   - [meow6969/SaladCLIPlus-Linux](https://github.com/meow6969/SaladCLIPlus-Linux) - a port of SaladCLI_Plus for linux \[*MIT License*\] (⭐️1)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️6834)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️6845)
   - [Vukkyy/cmd-pet](https://github.com/Vukkyy/cmd-pet) - the command line pet \[*GNU GPLv3*\] (⭐️1)
-  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - Dashboard Icons for your selfhosted services (⭐️228)
+  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - Dashboard Icons for your selfhosted services (⭐️229)
 
 ## Shell
 
-  - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior (⭐️159)
+  - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior (⭐️160)
 
 ## TypeScript
 
@@ -54,10 +54,10 @@ Total starred repositories: `18`
 
 ## Unknown
 
-  - [southoz/RetroOZ](https://github.com/southoz/RetroOZ) - RetroOZ Odroid Hardkernel Go Super and Powkiddy RGB 10 Max firmware (⭐️31)
+  - [southoz/RetroOZ](https://github.com/southoz/RetroOZ) - RetroOZ Odroid Hardkernel Go Super and Powkiddy RGB 10 Max firmware (⭐️32)
   - [Vukkyy/Vukkyy](https://github.com/Vukkyy/Vukkyy) - My description/bio/thing (⭐️2)
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more! \[*MIT License*\] (⭐️780)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more! \[*MIT License*\] (⭐️788)
 
