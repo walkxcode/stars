@@ -18,8 +18,8 @@ Total starred repositories: `27`
 
 ## C
 
-  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️57124)
-  - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️528)
+  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️57137)
+  - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️530)
 
 ## CSS
 
@@ -28,7 +28,7 @@ Total starred repositories: `27`
 
 ## HTML
 
-  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️483)
+  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️482)
   - [walkxcode/walkx.org](https://github.com/walkxcode/walkx.org) - The source code of walkx.org. (⭐️2)
 
 ## JavaScript
@@ -40,11 +40,11 @@ Total starred repositories: `27`
 
 ## Python
 
-  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1127)
+  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1128)
   - [meow6969/SaladCLIPlus-Linux](https://github.com/meow6969/SaladCLIPlus-Linux) - a port of SaladCLI_Plus for linux \[*MIT License*\] (⭐️1)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️7016)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️7024)
   - [Vukkyy/cmd-pet](https://github.com/Vukkyy/cmd-pet) - the command line pet \[*GNU GPLv3*\] (⭐️1)
-  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - Dashboard Icons for your selfhosted services (⭐️245)
+  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - Dashboard Icons for your selfhosted services (⭐️246)
 
 ## Shell
 
@@ -53,7 +53,7 @@ Total starred repositories: `27`
 ## TypeScript
 
   - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.  (⭐️18)
-  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️272)
+  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️274)
   - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️95)
   - [Vukkyy/salad-applications](https://github.com/Vukkyy/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️1)
 
@@ -63,10 +63,10 @@ Total starred repositories: `27`
   - [neatnik/braille-bitcoin-whitepaper](https://github.com/neatnik/braille-bitcoin-whitepaper) - The Bitcoin whitepaper, transcribed in Braille (with tactile diagrams) (⭐️7)
   - [neatnik/positivity.omg.lol](https://github.com/neatnik/positivity.omg.lol) - Positivity Dispenser \[*MIT License*\] (⭐️1)
   - [neatnik/status.omg.lol](https://github.com/neatnik/status.omg.lol) - The OMG.LOL Status Page \[*MIT License*\] (⭐️3)
-  - [southoz/RetroOZ](https://github.com/southoz/RetroOZ) - RetroOZ Odroid Hardkernel Go Super and Powkiddy RGB 10 Max firmware (⭐️32)
+  - [southoz/RetroOZ](https://github.com/southoz/RetroOZ) - RetroOZ Odroid Hardkernel Go Super and Powkiddy RGB 10 Max firmware (⭐️33)
   - [Vukkyy/Vukkyy](https://github.com/Vukkyy/Vukkyy) - My description/bio/thing (⭐️2)
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more! \[*MIT License*\] (⭐️874)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more! \[*MIT License*\] (⭐️878)
 
