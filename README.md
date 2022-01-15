@@ -18,13 +18,13 @@ Total starred repositories: `32`
 
 ## C
 
-  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️57323)
+  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️57336)
   - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️559)
 
 ## CSS
 
   - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for OMG.LOL (⭐️57)
-  - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - A custom Homer theme! \[*MIT License*\] (⭐️197)
+  - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - A custom Homer theme! \[*MIT License*\] (⭐️199)
 
 ## HTML
 
@@ -42,23 +42,23 @@ Total starred repositories: `32`
 
 ## Python
 
-  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1150)
+  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1151)
   - [meow6969/SaladCLIPlus-Linux](https://github.com/meow6969/SaladCLIPlus-Linux) - a port of SaladCLI_Plus for linux \[*MIT License*\] (⭐️1)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️7175)
-  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️533)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️7181)
+  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️538)
   - [Vukkyy/cmd-pet](https://github.com/Vukkyy/cmd-pet) - the command line pet \[*GNU GPLv3*\] (⭐️1)
-  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - Dashboard Icons for your selfhosted services (⭐️266)
+  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - Dashboard Icons for your selfhosted services (⭐️269)
   - [Yariya/EarnApp-Earning-Monitor](https://github.com/Yariya/EarnApp-Earning-Monitor) - Watches your earnings on EarnApp and notifies you when you earned balance or received an payout. \[*MIT License*\] (⭐️14)
 
 ## Shell
 
   - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior (⭐️170)
-  - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. \[*GNU GPLv3*\] (⭐️1345)
+  - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. \[*GNU GPLv3*\] (⭐️1349)
 
 ## TypeScript
 
   - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.  (⭐️19)
-  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️318)
+  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️320)
   - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️97)
   - [Vukkyy/salad-applications](https://github.com/Vukkyy/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️1)
 
@@ -73,5 +73,5 @@ Total starred repositories: `32`
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! \[*MIT License*\] (⭐️966)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! \[*MIT License*\] (⭐️976)
 
