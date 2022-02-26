@@ -20,14 +20,14 @@ Total starred repositories: `45`
 
 ## C
 
-  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️58003)
-  - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️585)
+  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️58134)
+  - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️586)
 
 ## C#
 
-  - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows \[*GNU GPLv3*\] (⭐️20801)
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️13505)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️2469)
+  - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows \[*GNU GPLv3*\] (⭐️20831)
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️13521)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️2471)
   - [xSke/PluralKit](https://github.com/xSke/PluralKit) -  (⭐️135)
 
 ## CSS
@@ -38,14 +38,14 @@ Total starred repositories: `45`
 ## HTML
 
   - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page (⭐️248)
-  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️541)
+  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️543)
 
 ## JavaScript
 
   - [Adrianotiger/web-esheep](https://github.com/Adrianotiger/web-esheep) - web based esheep (remembering the esheep from '95) \[*GNU GPLv3*\] (⭐️48)
   - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities \[*MIT License*\] (⭐️48)
   - [dimdenGD/Twitter2015](https://github.com/dimdenGD/Twitter2015) - Finally, a way to return old and great Twitter's look. (⭐️5)
-  - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go \[*MIT License*\] (⭐️5575)
+  - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go \[*MIT License*\] (⭐️5576)
   - [LITdevs/OMGEX](https://github.com/LITdevs/OMGEX) - Extended profile features for OMG.LOL (⭐️12)
   - [neatnik/terminal.land](https://github.com/neatnik/terminal.land) - A boundless world of interactive fiction \[*MIT License*\] (⭐️37)
   - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing \[*MIT License*\] (⭐️31)
@@ -60,10 +60,10 @@ Total starred repositories: `45`
 ## Python
 
   - [CSGOEARN-DEV/csgoearn](https://github.com/CSGOEARN-DEV/csgoearn) -  \[*GNU GPLv3*\] (⭐️2)
-  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1216)
+  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1217)
   - [meow6969/SaladCLIPlus-Linux](https://github.com/meow6969/SaladCLIPlus-Linux) - a port of SaladCLI_Plus for linux \[*MIT License*\] (⭐️3)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️7613)
-  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️615)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️7623)
+  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️617)
   - [Vukkyy/cmd-pet](https://github.com/Vukkyy/cmd-pet) - the command line pet \[*GNU GPLv3*\] (⭐️1)
   - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - Dashboard Icons for your selfhosted services. (⭐️315)
   - [Yariya/EarnApp-Earning-Monitor](https://github.com/Yariya/EarnApp-Earning-Monitor) - Watches your earnings on EarnApp and notifies you when you earned balance or received an payout. \[*MIT License*\] (⭐️19)
@@ -93,6 +93,6 @@ Total starred repositories: `45`
 
 ## Vue
 
-  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️8464)
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! \[*MIT License*\] (⭐️1219)
+  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️8472)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! \[*MIT License*\] (⭐️1224)
 
