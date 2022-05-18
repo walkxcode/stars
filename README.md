@@ -27,85 +27,85 @@ Total starred repositories: `52`
 
 ## C
 
-  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️59225)
+  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️59238)
   - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️606)
 
 ## C#
 
-  - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows \[*MIT License*\] (⭐️22257)
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️14688)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️2807)
+  - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows \[*MIT License*\] (⭐️22271)
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️14740)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️2810)
   - [xSke/PluralKit](https://github.com/xSke/PluralKit) -  (⭐️154)
 
 ## CSS
 
   - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for OMG.LOL (⭐️65)
-  - [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - 🎨 A custom Homer theme! \[*MIT License*\] (⭐️254)
+  - [walkxhub/homer-theme](https://github.com/walkxhub/homer-theme) - 🎨 A custom Homer theme! \[*MIT License*\] (⭐️255)
 
 ## HTML
 
   - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page (⭐️279)
-  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️601)
+  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️600)
 
 ## JavaScript
 
   - [Adrianotiger/web-esheep](https://github.com/Adrianotiger/web-esheep) - web based esheep (remembering the esheep from '95) \[*GNU GPLv3*\] (⭐️52)
-  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️9367)
+  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️9369)
   - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities \[*MIT License*\] (⭐️53)
   - [dimdenGD/Twitter2015](https://github.com/dimdenGD/Twitter2015) - Finally, a way to return old and great Twitter's look. (⭐️5)
-  - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform \[*GNU AGPLv3*\] (⭐️3663)
-  - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go \[*MIT License*\] (⭐️6001)
-  - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The most ⚡️ analytics-intensive 💪 self-hostable 🔗 URL shortener, with an amazing UI 😍 | Free Bitly alternative \[*MIT License*\] (⭐️322)
+  - [fosscord/fosscord](https://github.com/fosscord/fosscord) - Fosscord is a free open source selfhostable discord compatible communication platform \[*GNU AGPLv3*\] (⭐️3665)
+  - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go \[*MIT License*\] (⭐️6002)
+  - [Just-Moh-it/Pckd](https://github.com/Just-Moh-it/Pckd) - The most ⚡️ analytics-intensive 💪 self-hostable 🔗 URL shortener, with an amazing UI 😍 | Free Bitly alternative \[*MIT License*\] (⭐️327)
   - [LITdevs/OMGEX](https://github.com/LITdevs/OMGEX) - Extended profile features for OMG.LOL (⭐️12)
   - [neatnik/terminal.land](https://github.com/neatnik/terminal.land) - A boundless world of interactive fiction \[*MIT License*\] (⭐️39)
   - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing \[*MIT License*\] (⭐️36)
-  - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance. \[*MIT License*\] (⭐️1127)
-  - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (⭐️57119)
+  - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance. \[*MIT License*\] (⭐️1128)
+  - [resume/resume.github.com](https://github.com/resume/resume.github.com) - Resumes generated using the GitHub informations (⭐️57179)
   - [Vukkyy/userscripts](https://github.com/Vukkyy/userscripts) - bad userscripts that shouldn't exist (⭐️2)
 
 ## PHP
 
-  - [Colllect/Colllect](https://github.com/Colllect/Colllect) - Your visual bookmark manager \[*MIT License*\] (⭐️295)
+  - [Colllect/Colllect](https://github.com/Colllect/Colllect) - Your visual bookmark manager \[*MIT License*\] (⭐️296)
   - [sadgrlonline/website-surfer](https://github.com/sadgrlonline/website-surfer) - An app that lets you 'surf' through websites, like StumbleUpon! (⭐️1)
   - [sadgrlonline/yesterweb-ring](https://github.com/sadgrlonline/yesterweb-ring) - The admin area for the Yesterweb Webring (⭐️3)
 
 ## PowerShell
 
-  - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  \[*MIT License*\] (⭐️3184)
+  - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.  \[*MIT License*\] (⭐️3185)
 
 ## Python
 
   - [CSGOEARN-DEV/csgoearn](https://github.com/CSGOEARN-DEV/csgoearn) -  \[*GNU GPLv3*\] (⭐️3)
-  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1321)
-  - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️21155)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️8472)
-  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️771)
+  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1324)
+  - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie \[*BSD 3-Clause "New" or "Revised" License*\] (⭐️21189)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️8473)
+  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️774)
   - [Vukkyy/cmd-pet](https://github.com/Vukkyy/cmd-pet) - the command line pet \[*GNU GPLv3*\] (⭐️1)
-  - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services. (⭐️449)
+  - [walkxhub/dashboard-icons](https://github.com/walkxhub/dashboard-icons) - 📂 Dashboard Icons for your selfhosted services. (⭐️451)
   - [Yariya/EarnApp-Earning-Monitor](https://github.com/Yariya/EarnApp-Earning-Monitor) - Watches your earnings on EarnApp and notifies you when you earned balance or received an payout. \[*MIT License*\] (⭐️24)
 
 ## Rust
 
-  - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit \[*GNU AGPLv3*\] (⭐️2846)
+  - [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit \[*GNU AGPLv3*\] (⭐️2853)
 
 ## Shell
 
   - [Ahwxx/petch](https://github.com/Ahwxx/petch) - A Shell fetch tool under 100 lines! \[*GNU GPLv3*\] (⭐️2)
   - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior (⭐️182)
-  - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. \[*GNU GPLv3*\] (⭐️1695)
+  - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. \[*GNU GPLv3*\] (⭐️1696)
 
 ## TypeScript
 
-  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️356)
+  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️372)
   - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.  (⭐️24)
-  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️598)
+  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️604)
   - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️119)
   - [Vukkyy/salad-applications](https://github.com/Vukkyy/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️1)
 
 ## Unknown
 
   - [CodingFrizey/peak-cdn](https://github.com/CodingFrizey/peak-cdn) -  (⭐️1)
-  - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022 \[*Creative Commons Attribution 4.0 International*\] (⭐️8047)
+  - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A curated checklist of 300+ tips for protecting digital security and privacy in 2022 \[*Creative Commons Attribution 4.0 International*\] (⭐️8059)
   - [neatnik/braille-bitcoin-whitepaper](https://github.com/neatnik/braille-bitcoin-whitepaper) - The Bitcoin whitepaper, transcribed in Braille (with tactile diagrams) (⭐️7)
   - [neatnik/positivity.omg.lol](https://github.com/neatnik/positivity.omg.lol) - Positivity Dispenser \[*MIT License*\] (⭐️1)
   - [southoz/RetroOZ](https://github.com/southoz/RetroOZ) - RetroOZ Odroid Hardkernel Go Super and Powkiddy RGB 10 Max firmware (⭐️43)
@@ -113,5 +113,5 @@ Total starred repositories: `52`
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! \[*MIT License*\] (⭐️2591)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, widgets, themes and tons more! \[*MIT License*\] (⭐️2603)
 
