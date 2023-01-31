@@ -29,29 +29,29 @@ Total starred repositories: `60`
 
 ## C
 
-  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️61775)
+  - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud \[*GNU GPLv3*\] (⭐️61782)
   - [slicer69/doas](https://github.com/slicer69/doas) - A port of OpenBSD's doas which runs on FreeBSD, Linux, NetBSD, and illumos \[*BSD 2-Clause "Simplified" License*\] (⭐️664)
 
 ## C#
 
-  - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows \[*MIT License*\] (⭐️26083)
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️19981)
-  - [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit) -  (⭐️190)
-  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3783)
+  - [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows \[*MIT License*\] (⭐️26098)
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️20085)
+  - [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit) -  (⭐️191)
+  - [Tyrrrz/YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDownloader) - Downloads videos and playlists from YouTube (⭐️3788)
 
 ## CSS
 
   - [LukeSmithxyz/landchad](https://github.com/LukeSmithxyz/landchad) - Landchad.net Website Tutorial Page \[*The Unlicense*\] (⭐️317)
   - [neatnik/omg.lol](https://github.com/neatnik/omg.lol) - Cool stuff for omg.lol \[*MIT License*\] (⭐️267)
-  - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme! \[*MIT License*\] (⭐️391)
+  - [walkxcode/homer-theme](https://github.com/walkxcode/homer-theme) - 🎨 A custom Homer theme! \[*MIT License*\] (⭐️392)
 
 ## Go
 
-  - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser \[*Apache License 2.0*\] (⭐️18532)
+  - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser \[*Apache License 2.0*\] (⭐️18550)
 
 ## HTML
 
-  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️748)
+  - [maboroshin/qBittorrentDarktheme](https://github.com/maboroshin/qBittorrentDarktheme) - qBittorrent Dark theme (⭐️749)
 
 ## Haskell
 
@@ -59,17 +59,17 @@ Total starred repositories: `60`
 
 ## JavaScript
 
-  - [Adrianotiger/web-esheep](https://github.com/Adrianotiger/web-esheep) - web based esheep (remembering the esheep from '95) \[*GNU GPLv3*\] (⭐️70)
-  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️10666)
-  - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities \[*MIT License*\] (⭐️74)
-  - [craftzdog/chat-bubbles-for-yt](https://github.com/craftzdog/chat-bubbles-for-yt) - Real-time recording for chat bubbles  \[*Apache License 2.0*\] (⭐️545)
+  - [Adrianotiger/web-esheep](https://github.com/Adrianotiger/web-esheep) - web based esheep (remembering the esheep from '95) \[*GNU GPLv3*\] (⭐️71)
+  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️10671)
+  - [bcomnes/deploy-to-neocities](https://github.com/bcomnes/deploy-to-neocities) - 🐈 Github Action to deploy a folder to Neocities \[*MIT License*\] (⭐️75)
+  - [craftzdog/chat-bubbles-for-yt](https://github.com/craftzdog/chat-bubbles-for-yt) - Real-time recording for chat bubbles  \[*Apache License 2.0*\] (⭐️546)
   - [dimdenGD/Twitter2015](https://github.com/dimdenGD/Twitter2015) - Finally, a way to return old and great Twitter's look. (⭐️7) *Archived!*
-  - [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform \[*GNU AGPLv3*\] (⭐️4335)
-  - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go \[*MIT License*\] (⭐️6972)
+  - [fosscord/fosscord](https://github.com/fosscord/fosscord) - 📬 Fosscord is a free open source selfhostable discord compatible communication platform \[*GNU AGPLv3*\] (⭐️4336)
+  - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go \[*MIT License*\] (⭐️6979)
   - [LITdevs/OMGEX](https://github.com/LITdevs/OMGEX) - Extended profile features for OMG.LOL (⭐️23)
   - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing \[*MIT License*\] (⭐️85)
   - [PckdHQ/Pckd](https://github.com/PckdHQ/Pckd) - [OUTDATED] The most ⚡️ analytics-intensive self-hostable URL shortener, with an amazing UI | AKA free-Bitly/Shlink alternative 🚀 \[*MIT License*\] (⭐️660)
-  - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance. \[*MIT License*\] (⭐️1219)
+  - [powercord-org/powercord](https://github.com/powercord-org/powercord) - A lightweight @discord client mod focused on simplicity and performance. \[*MIT License*\] (⭐️1218)
   - [Vukkyy/userscripts](https://github.com/Vukkyy/userscripts) - bad userscripts that shouldn't exist (⭐️4)
 
 ## PHP
@@ -84,43 +84,43 @@ Total starred repositories: `60`
 
 ## Python
 
-  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️1938)
+  - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! \[*MIT License*\] (⭐️1941)
   - [CSGOEARN-DEV/csgoearn](https://github.com/CSGOEARN-DEV/csgoearn) -  \[*GNU GPLv3*\] (⭐️2)
-  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1668)
-  - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. \[*Modified BSD License*\] (⭐️26131)
+  - [Endermanch/MalwareDatabase](https://github.com/Endermanch/MalwareDatabase) - This repository is one of a few malware collections on the GitHub. (⭐️1670)
+  - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. \[*Modified BSD License*\] (⭐️26157)
   - [imrehg/archiveteam-arm](https://github.com/imrehg/archiveteam-arm) - ARM modifications to the ArchiveTeam Docker images (⭐️3)
-  - [jsavargas/zspotify](https://github.com/jsavargas/zspotify) -  \[*GNU GPLv3*\] (⭐️359)
+  - [jsavargas/zspotify](https://github.com/jsavargas/zspotify) -  \[*GNU GPLv3*\] (⭐️362)
   - [riscmkv/PatchNotestBot](https://github.com/riscmkv/PatchNotestBot) - A bot to tweet randomly generated patchnotes \[*MIT License*\] (⭐️20)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️10751)
-  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️1105)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️10764)
+  - [Tkd-Alex/Twitch-Channel-Points-Miner-v2](https://github.com/Tkd-Alex/Twitch-Channel-Points-Miner-v2) - A simple script that will watch a stream for you and earn the channel points. \[*GNU GPLv3*\] (⭐️1106)
   - [Vukkyy/cmd-pet](https://github.com/Vukkyy/cmd-pet) - the command line pet \[*GNU GPLv3*\] (⭐️1)
-  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard. (⭐️794)
+  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - ❤️ The best icons for your personal dashboard. (⭐️802)
   - [Yariya/EarnApp-Earning-Monitor](https://github.com/Yariya/EarnApp-Earning-Monitor) - Watches your earnings on EarnApp and notifies you when you earned balance or received an payout. \[*MIT License*\] (⭐️21) *Archived!*
 
 ## Rust
 
-  - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit \[*GNU AGPLv3*\] (⭐️4057)
+  - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit \[*GNU AGPLv3*\] (⭐️4061)
 
 ## Shell
 
   - [Ahwxorg/petch](https://github.com/Ahwxorg/petch) - A Shell fetch tool under 100 lines! \[*GNU GPLv3*\] (⭐️2)
   - [ArchiveTeam/warrior-dockerfile](https://github.com/ArchiveTeam/warrior-dockerfile) - A Dockerfile for the ArchiveTeam Warrior (⭐️188)
-  - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. \[*GNU GPLv3*\] (⭐️1812)
+  - [Bugswriter/notflix](https://github.com/Bugswriter/notflix) - Notflix is a shell script to search and stream torrent. \[*GNU GPLv3*\] (⭐️1813)
 
 ## TypeScript
 
-  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️1780)
+  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️1786)
   - [devrsi0n/chirpy](https://github.com/devrsi0n/chirpy) - 💬 A privacy-friendly and customizable Disqus (comment system) alternate, boost your comment system with docker. 注重隐私保护和定制化的评论系统, 支持 docker 部署。 \[*GNU AGPLv3*\] (⭐️437)
   - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.  (⭐️53)
-  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️1191)
+  - [jeffvli/sonixd](https://github.com/jeffvli/sonixd) - A full-featured Subsonic/Jellyfin compatible desktop music player \[*GNU GPLv3*\] (⭐️1194)
   - [manuel-rw/jellyfin-discord-music-bot](https://github.com/manuel-rw/jellyfin-discord-music-bot) - A simple and leightweight Discord Bot, that integrates with your Jellyfin Media server and enables you to listen to your favourite music directly from discord. \[*MIT License*\] (⭐️17)
   - [SaladTechnologies/salad-applications](https://github.com/SaladTechnologies/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️135)
-  - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization. \[*MIT License*\] (⭐️5621)
+  - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization. \[*MIT License*\] (⭐️5642)
   - [Vukkyy/salad-applications](https://github.com/Vukkyy/salad-applications) - The Salad desktop and web applications \[*MIT License*\] (⭐️1)
 
 ## Unknown
 
-  - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022 (⭐️10552)
+  - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022 (⭐️10559)
   - [neatnik/braille-bitcoin-whitepaper](https://github.com/neatnik/braille-bitcoin-whitepaper) - The Bitcoin whitepaper, transcribed in Braille (with tactile diagrams) (⭐️7)
   - [neatnik/positivity.omg.lol](https://github.com/neatnik/positivity.omg.lol) - Positivity Dispenser \[*MIT License*\] (⭐️1)
   - [neatnik/terminal.land](https://github.com/neatnik/terminal.land) - A boundless world of interactive fiction \[*MIT License*\] (⭐️45)
@@ -129,5 +129,5 @@ Total starred repositories: `60`
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️9321)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️9339)
 
