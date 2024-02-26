@@ -19,7 +19,7 @@ Total starred repositories: `18`
 
 ## C#
 
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️28281)
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️28300)
 
 ## CSS
 
@@ -27,7 +27,6 @@ Total starred repositories: `18`
 
 ## JavaScript
 
-  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️12067)
   - [LITdevs/OMGEX](https://github.com/LITdevs/OMGEX) - Extended profile features for OMG.LOL (⭐️33)
   - [neatnik/typo](https://github.com/neatnik/typo) - Typo is a more natural web typing thing \[*MIT License*\] (⭐️121)
 
@@ -38,8 +37,8 @@ Total starred repositories: `18`
 ## Python
 
   - [imrehg/archiveteam-arm](https://github.com/imrehg/archiveteam-arm) - ARM modifications to the ArchiveTeam Docker images (⭐️5)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️14373)
-  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards. (⭐️3743)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️14387)
+  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards. (⭐️3747)
   - [walkxcode/roop](https://github.com/walkxcode/roop) - one-click deepfake (face swap) \[*GNU AGPLv3*\] (⭐️2)
 
 ## Rust
@@ -53,15 +52,16 @@ Total starred repositories: `18`
 
 ## TypeScript
 
-  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️4631)
+  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️4642)
+  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️12070)
   - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.  (⭐️83)
 
 ## Unknown
 
-  - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them (⭐️2620)
+  - [help-14/mechanical-keyboard](https://github.com/help-14/mechanical-keyboard) - DIY mechanical keyboard and where to find them (⭐️2621)
   - [southoz/RetroOZ](https://github.com/southoz/RetroOZ) - RetroOZ Odroid Hardkernel Go Super and Powkiddy RGB 10 Max firmware (⭐️54)
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️14566)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️14574)
 
