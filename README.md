@@ -20,7 +20,7 @@ Total starred repositories: `21`
 
 ## C#
 
-  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️34323)
+  - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System \[*GNU GPLv2*\] (⭐️34347)
 
 ## CSS
 
@@ -38,13 +38,13 @@ Total starred repositories: `21`
 ## Python
 
   - [imrehg/archiveteam-arm](https://github.com/imrehg/archiveteam-arm) - ARM modifications to the ArchiveTeam Docker images (⭐️5)
-  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️17353)
-  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons. (⭐️4898)
+  - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found). \[*MIT License*\] (⭐️17364)
+  - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons. (⭐️4904)
   - [walkxcode/roop](https://github.com/walkxcode/roop) - one-click deepfake (face swap) \[*GNU AGPLv3*\] (⭐️2)
 
 ## Rust
 
-  - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit \[*GNU AGPLv3*\] (⭐️5045)
+  - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit \[*GNU AGPLv3*\] (⭐️5046)
 
 ## Shell
 
@@ -53,14 +53,14 @@ Total starred repositories: `21`
 
 ## Svelte
 
-  - [urania-dev/snapp](https://github.com/urania-dev/snapp) - Yet Another Url Shortner. A simple excercise to learn Svelte. \[*MIT License*\] (⭐️192)
+  - [urania-dev/snapp](https://github.com/urania-dev/snapp) - Yet Another Url Shortner. A simple excercise to learn Svelte. \[*MIT License*\] (⭐️193)
 
 ## TypeScript
 
-  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️6111)
-  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️12619)
-  - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️32066)
-  - [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage \[*MIT License*\] (⭐️345)
+  - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr) \[*MIT License*\] (⭐️6113)
+  - [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes \[*GNU GPLv3*\] (⭐️12623)
+  - [calcom/cal.com](https://github.com/calcom/cal.com) - Scheduling infrastructure for absolutely everyone. (⭐️32073)
+  - [hywax/mafl](https://github.com/hywax/mafl) - Minimalistic flexible homepage \[*MIT License*\] (⭐️346)
   - [igorsheg/astro](https://github.com/igorsheg/astro) - An open, extensible, dashboard for all of your homelab services.  (⭐️93)
 
 ## Unknown
@@ -70,5 +70,5 @@ Total starred repositories: `21`
 
 ## Vue
 
-  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️17338)
+  - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! \[*MIT License*\] (⭐️17356)
 
